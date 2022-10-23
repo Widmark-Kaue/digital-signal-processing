@@ -13,6 +13,7 @@ scipy = "^1.9.2"
 simupy = "^1.1.2"
 sympy = "^1.11.1"
 control = "^0.9.2"
+blue = "^0.9.1"
 
 [tool.poetry.dev-dependencies]
 
