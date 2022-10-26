@@ -6,9 +6,14 @@ Foco no estudo de controladores digitais e filtragem de sinais
 INSTRUÇÔES PARA RODAR NO DRIVE:
 --------------------------------
 
-Suba a pasta descompactada no drive e abra o arquivo avl1.ipynb com o aplicativo google colab. Após isso, descomente a linha de comando que instalar a biblioteca de controle.
+Suba a pasta descompactada no drive e abra o arquivo avl1.ipynb com o aplicativo Google Colaboratory. 
 
-Espere a instalação terminar, reinicie o kernel e rode o código normalmente.
+Descomente as linhas da primeira célula do script, espere a instalação da biblioteca de controle terminar e entre com o caminho para o arquivo .ipynb.
+
+O caminho para o arquivo pode ser obtido navegando pela árvore de pastas do google drive e clicando com o botão direito do mouse em cima do arquivo desejado.
+
+<img src="images/instrucao.png">
+
 
 INSTRUÇÕES PARA RODAR NO VSCODE:
 --------------------------------
@@ -17,7 +22,9 @@ Abra o Vscode na pasta e, caso não tenha, instale as extensões necessárias pa
 
 Recomendo baixar os packs extension de cada um para garantir a boa funcionalidade do código.
 
-Após isso, vá no terminal e digite: pip install control
+Após isso, vá no terminal e instale os pacotes necessários usando a seguinte linha de comando: 
+
+pip install <package>
 
 Terminada a instalação o código pode ser executádo sem problemas. 
 
