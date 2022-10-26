@@ -3,7 +3,7 @@ Implementações utilizadas para a disciplina de EMB5645 - Processamento Digital
 
 Foco no estudo de controladores digitais e filtragem de sinais
 
-INSTRUÇÔES PARA RODAR NO DRIVE:
+INSTRUÇÕES PARA RODAR NO DRIVE:
 --------------------------------
 
 Suba a pasta descompactada no drive e abra o arquivo avl1.ipynb com o aplicativo Google Colaboratory. 
