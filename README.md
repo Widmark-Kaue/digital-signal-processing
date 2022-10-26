@@ -24,7 +24,7 @@ Recomendo baixar os packs extension de cada um para garantir a boa funcionalidad
 
 Após isso, vá no terminal e instale os pacotes necessários usando a seguinte linha de comando: 
 
-pip install <package>
+pip install 'package'
 
 Terminada a instalação o código pode ser executádo sem problemas. 
 
