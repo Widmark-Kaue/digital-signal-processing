@@ -3,6 +3,7 @@ backup/
 
 # Ltspice
 *.raw
+*.net
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
