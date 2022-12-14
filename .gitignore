@@ -1,5 +1,6 @@
 # paths
 backup/
+*.zip
 
 # Ltspice
 *.raw
