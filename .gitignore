@@ -2,6 +2,12 @@
 backup/
 *.zip
 
+# Proteus
+Project Backups/
+
+# Arduino
+build/
+
 # Ltspice
 *.raw
 *.net
